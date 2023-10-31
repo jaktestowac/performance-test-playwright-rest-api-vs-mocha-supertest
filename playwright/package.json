@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "author": "",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.39.0",
+    "@faker-js/faker": "^8.0.2"
+  }
+}

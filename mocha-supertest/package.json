@@ -1,0 +1,16 @@
+{
+  "name": "mocha-supertest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --require hooks.js --timeout 10000"
+  },
+  "author": "jaktestowac.pl",
+  "devDependencies": {
+    "@faker-js/faker": "^8.0.2",
+    "chai": "^4.3.8",
+    "mocha": "^10.2.0",
+    "supertest": "^6.3.3"
+  }
+}
